@@ -54,13 +54,12 @@ In order to track the winner of the election we need set the “winner_candidate
 
 ![Winner_of_Election_code](https://github.com/cynmmarin/Election_Analysis/blob/ed1f834447b55f14bb3cdcb3995d1735bea90512/Images/Winner_of_Election_code.png)
 
-The results show us that Diana DeGette was the winner of the congressional seat for Denver. The winning vote count was 272,892 and the winning percentage was 73.8% This was a land slide! The winning candidate received over three times the number of votes than the second runner up.   
+The results show us that Diana DeGette was the winner of the congressional seat for Denver. The winning vote count was 272,892 and the winning percentage was 73.8%. This was a land slide! The winning candidate received over three times the number of votes than the second runner up.   
 
 ![Winner_of_Election_text_file](https://github.com/cynmmarin/Election_Analysis/blob/ed1f834447b55f14bb3cdcb3995d1735bea90512/Images/Winner_of_Election_text_file.png)
 
 ## Election-Audit Summary
-The election audit has determined that the total votes of for the congressional election were 369,711. It has shown us that there were three counties in the election and given us their percentage of votes and the number count. Also, it helped us determine that Denver was the county with the largest voter turnout. Likewise, it provided the candidates, their voter count and percentage of votes in relation to the total votes in the election. Lastly, it showed that Diana DeGette was the winning candidate of the congressional election. Through coding we have been able to deliver a detailed summary of the election audit.
-
+The election audit has determined that the total votes for the congressional election were 369,711. It has shown us that there were three counties in the election and give us their percentage of votes and the voter count. Also, it helped us determine that Denver was the county with the largest voter turnout. Likewise, it provided the candidates, their voter count and percentage of votes in relation to the total votes in the election. Lastly, it showed that Diana DeGette was the winning candidate of the congressional election. Through coding we have been able to deliver a detailed summary of the election audit.
 ![Election_Results_text_file](https://github.com/cynmmarin/Election_Analysis/blob/ed1f834447b55f14bb3cdcb3995d1735bea90512/Images/Election_Results_text_file.png)
 
 Given the details and data manipulation of our code, this framework can be used to audit future elections. For example, if the election commission wishes to determine the results of a county election, they can evaluate the towns turnout. They can make a list of the towns in the county, add it to the county dictionary and create a loop that goes through each row and given them the voter turnout of each town, the percentage of total vote that came from each town and the voter count. This can help determine the candidate that won the positions for County Executive, Freeholders and County Sheriff. 
